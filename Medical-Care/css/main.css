@@ -39,3 +39,19 @@
 @media (min-width: 767px) and (max-width: 992px){
     
 }
+
+/* LG screen */
+@media (min-width: 992px) and (max-width: 1200px){
+    
+}
+
+/* XlG screen */
+@media (min-width: 1200px) and (max-width: 1400px){
+    
+}
+
+/* XXlG screen */
+@media (min-width: 1400px){
+    
+}
+
