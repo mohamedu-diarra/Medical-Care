@@ -31,17 +31,23 @@
 /* media queries */
 /* xsml screen */
 @media (min-width: 480px) {
-    
+    .container{
+        max-width: 400px;
+    }
 }
 
 /* sml screen */
 @media (min-width: 480px) and (max-width: 767px){
-    
+    .container{
+        max-width: 700px;
+    }
 }
 
 /* md screen */
 @media (min-width: 767px) and (max-width: 992px){
-    
+    .container{
+        max-width: 900px;
+    }
 }
 
 /* LG screen */
