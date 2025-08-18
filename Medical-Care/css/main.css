@@ -52,12 +52,16 @@
 
 /* LG screen */
 @media (min-width: 992px) and (max-width: 1200px){
-    
+    .container{
+        max-width: 1000px;
+    }
 }
 
 /* XlG screen */
 @media (min-width: 1200px) and (max-width: 1400px){
-    
+    .container{
+        max-width: 1150px;
+    }
 }
 
 /* XXlG screen */
