@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root{
+    --Blue: #152eca;
+    --Black: #1f2937;
+    --Dark: #374151;
+    --Darklight: #9ca3af;
+    --Yellow: #facc15;
+    --Bluelight: #60a5fa;
+}
