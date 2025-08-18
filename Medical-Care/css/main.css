@@ -16,3 +16,26 @@
     --Green: #22c55e;
     
 }
+
+.container{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+/* media queries */
+/* xsml screen */
+@media (min-width: 480px) {
+    
+}
+
+/* sml screen */
+@media (min-width: 480px) and (max-width: 767px){
+    
+}
+
+/* md screen */
+@media (min-width: 767px) and (max-width: 992px){
+    
+}
