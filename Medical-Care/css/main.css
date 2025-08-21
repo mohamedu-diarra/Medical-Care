@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "Inter";
+    src: url(/Medical-Care/fonts/Inter-Italic-VariableFont_opsz\,wght.ttf);
+}
+
 :root{
     --White: #ffffff;
     --DimBlue: #1d4ed8;
