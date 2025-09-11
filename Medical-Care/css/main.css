@@ -69,10 +69,12 @@ div.navsec nav ul.links li a{
      font-family: "Inter2";
      color: var(--Dark);
      font-weight: 500;
-   
+   transition: all 0.6s ease-in-out;
     
 }
 div.navsec nav ul.links li a:hover{
+    color: var(--DimBlue);
+   
     
 }
 div.navsec nav div.logo{
@@ -86,8 +88,11 @@ div.navsec nav div.logo h2{
     font-size: 24px;
       font-family: "Inter2";
       color: var(--DimBlue);
+      cursor: pointer;
     
 }
+
+/* hero style */
 
 /* media queries */
 /* xsml screen */
