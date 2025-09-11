@@ -135,6 +135,27 @@ div.hero div.hero_sec p.hero{
        text-align: center;
 }
 div.hero div.hero_sec div.btn_hero{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+div.hero div.hero_sec div.btn_hero button{
+    width: 260px;
+    height: 45px;
+    background-color: var(--White);
+    border: none;
+    outline: none;
+    border-radius: 23px;
+    color: var(--DimBlue);
+     font-size: 18px;
+     font-family: "Inter2";
+     font-weight: 600;
+     cursor: pointer;
+}
+div.hero div.hero_sec div.btn_hero button:hover{
     
 }
 /* media queries */
