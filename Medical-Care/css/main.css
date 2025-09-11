@@ -134,7 +134,9 @@ div.hero div.hero_sec p.hero{
        color: var(--White);
        text-align: center;
 }
-div.hero div.hero_sec div.btn_hero
+div.hero div.hero_sec div.btn_hero{
+    
+}
 /* media queries */
 /* xsml screen */
 @media (min-width: 480px) {
