@@ -155,8 +155,8 @@ div.hero div.hero_sec div.btn_hero button{
      font-weight: 600;
      cursor: pointer;
 }
-div.hero div.hero_sec div.btn_hero button:hover{
-    
+div.hero div.hero_sec div.btn_hero button i:hover{
+    margin-left: 5px;
 }
 /* media queries */
 /* xsml screen */
