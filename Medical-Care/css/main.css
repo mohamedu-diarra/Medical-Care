@@ -98,7 +98,9 @@ div.hero{
     height: 100%;
     padding: 10%;
     margin-top:20px ;
-         background-color: var(--DimBlue);
+         /* background-color: var(--DimBlue); */
+         background-image: url(/Medical-Care/Images/Screenshot\ 2025-09-13\ 190622.png);
+         opacity: 100;
    
 }
 div.hero div.hero_sec{
