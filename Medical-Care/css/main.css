@@ -174,7 +174,6 @@ div.about div.qaybo{
     justify-content: space-evenly;
     align-items: center;
     flex-flow: nowrap row;
-    background-color: #22c55e;
     gap: 20%;
 }
 div.about div.qaybo div.qayb{
@@ -185,7 +184,7 @@ div.about div.qaybo div.qayb{
 div.about div.qaybo div.qayb.koobaad{
  
     height: 100%;
-    background-color: red;
+
 
 }
 div.about div.qaybo div.qayb.koobaad div.cinwaan {
@@ -197,21 +196,40 @@ div.about div.qaybo div.qayb.koobaad div.cinwaan h2.about{
      font-family: "Inter2";
 }
 div.about div.qaybo div.qayb.koobaad p.about{
+  
     font-size: 16px;
     color: var(--Dark);
      font-family: "Inter2";
+     margin: 20px 0px;
 
+}
+div.about div.qaybo div.qayb.koobaad div.lists p{
+     font-size: 16px;
+    color: var(--Dark);
+     font-family: "Inter2";
+     margin: 5px 0px;
+}
+div.about div.qaybo div.qayb.koobaad div.lists p i{
+    color: var(--Green);
 }
 div.about div.qaybo div.qayb.labaad{
     height: 100%;
 }
 div.about div.qaybo div.qayb.labaad div.sawir{
-    width: 100%;
-    height: 100%;
+    width: 500px;
+    height: 300px;
+    background-color: #1d4ed8;
+    border-radius: 7px;
+    
 }
 div.about div.qaybo div.qayb.labaad div.sawir img{
     width: 100%;
     height: 100%;
+    border-radius: 7px;
+    transition: all 0.5s ease-in-out;
+}
+div.about div.qaybo div.qayb.labaad div.sawir:hover img{
+      transform: scale(1.2)
 }
 
 
