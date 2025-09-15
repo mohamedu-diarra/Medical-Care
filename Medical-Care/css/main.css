@@ -187,7 +187,15 @@ div.about div.qaybo div.qayb.koobaad{
     background-color: red;
 
 }
-div.about div.qaybo div.qayb.koobaad div.cinwaan
+div.about div.qaybo div.qayb.koobaad div.cinwaan {
+margin-bottom:10%;
+}
+div.about div.qaybo div.qayb.labaad{
+    height: 100%;
+}
+div.about div.qaybo div.qayb.labaad div.sawir{
+    
+}
 
 
 
