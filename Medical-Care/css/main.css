@@ -143,6 +143,7 @@ div.hero div.hero_sec div.btn_hero{
     justify-content: center;
     align-items: center;
     margin: 20px 0px;
+    transition: all 0.5s ease-in-out;
 }
 div.hero div.hero_sec div.btn_hero button{
     width: 260px;
@@ -156,9 +157,13 @@ div.hero div.hero_sec div.btn_hero button{
      font-family: "Inter2";
      font-weight: 600;
      cursor: pointer;
+     transition: all 0.5s ease-in-out;
 }
 div.hero div.hero_sec div.btn_hero button:hover{
     margin-left: 5px;
+}
+div.hero div.hero_sec div.btn_hero:hover button{
+    transform: scale(1.1)
 }
 /* about style */
 div.about{
@@ -216,8 +221,8 @@ div.about div.qaybo div.qayb.labaad{
     height: 100%;
 }
 div.about div.qaybo div.qayb.labaad div.sawir{
-    width: 500px;
-    height: 300px;
+    width: 600px;
+    height: 350px;
     border-radius: 7px;
     
 }
