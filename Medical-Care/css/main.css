@@ -160,7 +160,35 @@ div.hero div.hero_sec div.btn_hero button{
 div.hero div.hero_sec div.btn_hero button:hover{
     margin-left: 5px;
 }
+/* about style */
+div.about{
+    width: 100%;
+    height: 100%;
+
+}
+div.about div.qaybo{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: nowrap row;
+}
+div.about div.qaybo div.qayb
+
+
+
+
+
+
+
+
+
+
+
+
 /* media queries */
+
 /* xsml screen */
 @media (min-width: 480px) {
     .container{
