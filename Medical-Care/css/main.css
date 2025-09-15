@@ -164,6 +164,7 @@ div.hero div.hero_sec div.btn_hero button:hover{
 div.about{
     width: 100%;
     height: 100%;
+    margin-top: 5%;
        
 }
 div.about div.qaybo{
@@ -188,7 +189,18 @@ div.about div.qaybo div.qayb.koobaad{
 
 }
 div.about div.qaybo div.qayb.koobaad div.cinwaan {
-margin-bottom:10%;
+margin-bottom:5%;
+}
+div.about div.qaybo div.qayb.koobaad div.cinwaan h2.about{
+    font-size: 38px;
+    color: var(--DimBlue);
+     font-family: "Inter2";
+}
+div.about div.qaybo div.qayb.koobaad p.about{
+    font-size: 16px;
+    color: var(--Dark);
+     font-family: "Inter2";
+
 }
 div.about div.qaybo div.qayb.labaad{
     height: 100%;
